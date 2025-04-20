@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+*.env
+
+# VS Code config
+.vscode/
+
+# ollama models (optional)
+*.bin
+*.gguf
+
+# Logs
+*.log
+
+# Python virtual environment
+venv/
+.env/
+
+# OS-specific
+.DS_Store
+Thumbs.db
